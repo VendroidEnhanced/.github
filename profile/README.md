@@ -1,5 +1,9 @@
 # Vendroid
 
+## Looking for the app?
+
+It has been moved to https://github.com/nin0-dev/VendroidEnhanced.
+
 > [!WARNING]
 > This app is still in beta.
 
